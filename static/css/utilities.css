@@ -1,0 +1,9 @@
+.soften {
+    --box-bg: hsl( 0, 0%, 18% );
+    --accent: hsl(0, 0%, 40%);
+    --graphical-fg: hsl(0, 0%, 40%);
+}
+
+.text-right {
+    text-align: right;
+}
